@@ -5,7 +5,7 @@ My solutions for 2018's edition of Advent of Code.
 |    Day | Name                        | Python | Go | Java |
 |-------:|:----------------------------|:------:|:--:|:----:|
 |  Day 1 | Chronal Calibration         |    ✔   |  ✔ |      |
-|  Day 2 | Inventory Management System |    ✔   |    |      |
+|  Day 2 | Inventory Management System |    ✔   |  ✔ |      |
 |  Day 3 | ?                           |        |    |      |
 |  Day 4 | ?                           |        |    |      |
 |  Day 5 | ?                           |        |    |      |
