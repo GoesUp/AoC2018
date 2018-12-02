@@ -4,6 +4,7 @@ import (
 	"bufio"
 	"fmt"
 	"github.com/GoesUp/AoC2018/day1"
+	"github.com/GoesUp/AoC2018/day2"
 	"io/ioutil"
 	"log"
 	"os"
@@ -27,5 +28,10 @@ func main() {
 		fmt.Println(day1.Star1(properTest))
 	case "1,2":
 		fmt.Println(day1.Star2(properTest))
+	case "2,1":
+		fmt.Println(day2.Star1(properTest))
+	case "2,2":
+		fmt.Println(day2.Star2(properTest))
+
 	}
 }
